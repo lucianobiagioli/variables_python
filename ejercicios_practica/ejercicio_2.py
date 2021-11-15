@@ -33,3 +33,17 @@ numero_2 = int(input())
 # División
 
 # Multiplicación
+
+
+print('El primer numero ingresado es:', numero_1)
+print('El segundo numero ingresado es:', numero_2)
+
+suma = numero_1 + numero_2
+resta = numero_1 - numero_2
+multiplicacion = numero_1 * numero_2
+division = numero_1 / numero_2
+
+print('El resultado de sumar', numero_1, 'y', numero_2, 'es:', suma)
+print('El resultado de', numero_1, '-', numero_2, 'es:', resta)
+print('El resultado de multiplicar', numero_1, 'por', numero_2, 'es:', multiplicacion)
+print('La division de', numero_1, 'sobre', numero_2, 'da como resultado:', division)
