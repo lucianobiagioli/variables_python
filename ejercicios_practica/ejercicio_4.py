@@ -33,4 +33,3 @@ print('Ud ingreso:', palabra_1, palabra_2, palabra_3, palabra_4, palabra_5)   # 
 # Imprimir el resultado en pantalla
 
 print('Su acronimo es:', palabra_1[0], palabra_2[0], palabra_3[0], palabra_4[0], palabra_5[0])
-

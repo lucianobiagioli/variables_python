@@ -33,3 +33,4 @@ palabra_nueva = p_1 + p_2
 # Imprima en pantalla los resultados
 
 print('El resultado de la combinacion es:', palabra_nueva)
+

@@ -29,4 +29,3 @@ print('El resultado de', numero_1, '+', numero_2, 'es: ', resultado_suma)
 
 resultado_resta = numero_1 - numero_2
 print('Si restamos', numero_1, '-', numero_2, 'obtenemos como resultado: ', resultado_resta)
-
